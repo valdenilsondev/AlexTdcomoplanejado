@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Guardioes das Galaxia/SystemSolar 2.unity
+- path: Assets/Sami - Assets/Cena Sami.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
