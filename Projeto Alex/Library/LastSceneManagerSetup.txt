@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Guardioes das Galaxia/Menu.unity
+- path: Assets/Sami - Assets/Cidade Reciclavel/Sami - Cidade.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
