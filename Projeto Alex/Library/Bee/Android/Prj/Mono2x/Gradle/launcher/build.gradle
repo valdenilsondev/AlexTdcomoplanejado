@@ -5,8 +5,8 @@ dependencies {
     }
 
 android {
-    compileSdkVersion 29
-    buildToolsVersion '29.0.2'
+    compileSdkVersion 30
+    buildToolsVersion '30.0.2'
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
@@ -14,9 +14,9 @@ android {
     }
 
     defaultConfig {
-        minSdkVersion 23
-        targetSdkVersion 29
-        applicationId 'com.FazedoresdeJogos.ClenCity'
+        minSdkVersion 26
+        targetSdkVersion 30
+        applicationId 'com.FazedoresdeJogos.RAUSINADEBIOMASSA'
         ndk {
             abiFilters 'armeabi-v7a'
         }

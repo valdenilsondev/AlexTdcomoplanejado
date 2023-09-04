@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "applicationId": "com.FazedoresdeJogos.ClenCity",
+  "applicationId": "com.FazedoresdeJogos.RAUSINADEBIOMASSA",
   "variantType": "BASE_APK",
   "elements": [
     {
@@ -19,9 +19,9 @@
       },
       "path": "resources-release.ap_",
       "properties": {
-        "packageId": "com.FazedoresdeJogos.ClenCity",
+        "packageId": "com.FazedoresdeJogos.RAUSINADEBIOMASSA",
         "split": "",
-        "minSdkVersion": "23"
+        "minSdkVersion": "26"
       }
     }
   ]

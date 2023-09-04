@@ -1,4 +1,4 @@
-com.FazedoresdeJogos.ClenCity
+com.FazedoresdeJogos.RAUSINADEBIOMASSA
 id __arcore_cancelButton
 id __arcore_continueButton
 id __arcore_messageText
@@ -7,6 +7,11 @@ layout __arcore_education
 mipmap app_icon
 mipmap app_icon_round
 raw keep_arcore
+string FreeformWindowOrientation_landscape
+string FreeformWindowOrientation_portrait
+string FreeformWindowSize_maximize
+string FreeformWindowSize_phone
+string FreeformWindowSize_tablet
 string __arcore_cancel
 string __arcore_continue
 string __arcore_install_app

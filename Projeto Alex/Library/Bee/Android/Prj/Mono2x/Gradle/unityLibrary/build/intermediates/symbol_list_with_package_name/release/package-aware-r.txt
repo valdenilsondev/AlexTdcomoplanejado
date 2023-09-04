@@ -5,6 +5,11 @@ id __arcore_messageText
 id unitySurfaceView
 layout __arcore_education
 raw keep_arcore
+string FreeformWindowOrientation_landscape
+string FreeformWindowOrientation_portrait
+string FreeformWindowSize_maximize
+string FreeformWindowSize_phone
+string FreeformWindowSize_tablet
 string __arcore_cancel
 string __arcore_continue
 string __arcore_install_app

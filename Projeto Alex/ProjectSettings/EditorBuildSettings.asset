@@ -26,10 +26,16 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Guardioes das Galaxia/Baby Groot Gigante.unity
     guid: a10be642cd40ff042b31a582d6cb7eb8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Guardioes das Galaxia/ArqCasaInterno.unity
     guid: a0dde4cc34a8c0f418ec00d22ee2edd3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Guardioes das Galaxia/ArqCasaExterno.unity
     guid: 5c92dc550af87ab4d8f2211cd1149668
+  - enabled: 1
+    path: Assets/Sami - Assets/Forno Pacheco/Cena Sami - Pacheco 1.unity
+    guid: b5fd04b115c8e394eb2dc735a9a8d179
+  - enabled: 1
+    path: Assets/Sami - Assets/Forno Pacheco/Cena Sami - Pacheco 2.unity
+    guid: 9885b3f1d2eb25c49a1b3491a1530797
   m_configObjects: {}

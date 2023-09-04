@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.FazedoresdeJogos.ClenCity"
+    package="com.FazedoresdeJogos.RAUSINADEBIOMASSA"
     android:installLocation="preferExternal"
     android:versionCode="1"
     android:versionName="0.2" >
 
     <uses-sdk
-        android:minSdkVersion="23"
-        android:targetSdkVersion="29" />
+        android:minSdkVersion="26"
+        android:targetSdkVersion="30" />
 
     <supports-screens
         android:anyDensity="true"
@@ -117,7 +117,7 @@
 
         <provider
             android:name="com.vuforia.engine.app.VuforiaContentProvider"
-            android:authorities="com.FazedoresdeJogos.ClenCity.vuforia.share"
+            android:authorities="com.FazedoresdeJogos.RAUSINADEBIOMASSA.vuforia.share"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data

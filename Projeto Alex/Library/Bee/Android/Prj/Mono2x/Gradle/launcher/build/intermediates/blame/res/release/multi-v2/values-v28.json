@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "H:\\AlexFinalizado\\AlexFinalizado\\Projeto Alex\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v28\\values-v28.xml",
+            "outputFile": "C:\\Users\\Sami\\Documents\\GitHub\\AlexTdcomoplanejado\\Projeto Alex\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v28\\values-v28.xml",
             "map": [
                 {
-                    "source": "H:\\AlexFinalizado\\AlexFinalizado\\Projeto Alex\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values-v28\\styles.xml",
+                    "source": "C:\\Users\\Sami\\Documents\\GitHub\\AlexTdcomoplanejado\\Projeto Alex\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values-v28\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",

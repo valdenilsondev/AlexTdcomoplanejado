@@ -20,4 +20,21 @@ public class fecharCena : MonoBehaviour
     {
         Application.Quit();
     }
+
+     public void Processo01()
+    {
+        SceneManager.LoadScene("Cena Sami - Pacheco 1");
+    }
+
+     public void Processo02()
+    {
+        SceneManager.LoadScene("Cena Sami - Pacheco 2");
+    }
+
+    public void Retornar()
+    {
+        SceneManager.LoadScene("Menu");
+    }
+
+
 }
