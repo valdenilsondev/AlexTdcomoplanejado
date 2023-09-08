@@ -373,6 +373,8 @@
 "Assets/JMO Assets/Cartoon FX (legacy)/Scripts/CFX_AutoRotate.cs"
 "Assets/JMO Assets/Cartoon FX (legacy)/Scripts/CFX_LightFlicker.cs"
 "Assets/JMO Assets/Cartoon FX (legacy)/Scripts/CFX_LightIntensityFade.cs"
+"Assets/MouseLookAt.cs"
+"Assets/PlayerController.cs"
 "Assets/Sci-Fi UI/Demo_Assets/scripts/GUI_Demo.cs"
 "Assets/Screen Capture Native Gallery/Screen Capture Native Gallery/Screen Capture Native Gallery/ScreenCapture.cs"
 "Assets/Scripts/AppSystemSolar/novoSistemaSolar/rotacaoNova.cs"
