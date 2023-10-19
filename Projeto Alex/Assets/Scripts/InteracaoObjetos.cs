@@ -46,7 +46,7 @@ public class InteracaoObjetos : MonoBehaviour
             {
                 isPainel = !isPainel;
 
-             
+                
             }
 
 
